@@ -1,0 +1,59 @@
+.clients-sec{
+   
+    background-color: #f8f8f8;
+    border-bottom: #cec3c3;
+    height:100vh;
+    h1{
+        color: #022752 !important;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.3em;
+    padding-top: 40px;
+    }
+    p{
+        color: #555555;
+    font-size: 17px;
+    }
+}
+
+.client-1, .client-2 , .client-3 {
+    margin-top: 40px;
+    // display: inline-block;
+   
+    height: 30vh;
+background-color: #fff;
+img{
+
+    margin: 20px;
+}
+p{
+
+    margin-bottom: 15px;
+    color: #555555;
+    font-size: 17px;
+    text-align: center;
+}
+h5{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 0px;
+    text-align: center;
+    color: #555555;
+}
+}
+.client-1{
+    margin-right: 40px;
+ 
+}
+.client-2{
+    height: 60vh !important;
+    margin-left: -20px !important;
+}
+.client-3{
+    margin-left: 20px;
+// width: 400px !important;
+}
+.whole-sec{
+    width: calc(100% + 30px);
+}

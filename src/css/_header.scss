@@ -1,0 +1,92 @@
+.main-img{
+    background-image: url(../images/main1.jpg);
+    width:103%;
+    height:600px;
+    margin-left: -20px;
+    background-position: center;
+    background-size: cover;
+}
+.main-img{
+    h5{
+        color: darkblue;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    h2{
+        font-size: 55px;
+    }
+    li{
+        list-style: none;
+        font-size: 20px;
+    }
+}
+.main-info{
+    margin-top: 60px;
+}
+
+.side-part{
+
+    height: 430px;
+    width: 40%;
+//    position: absolute;
+   margin-left: 660px;
+   margin-top: -330px;
+   background-color: white;
+   
+p{
+    font-size: 12px;
+}
+}
+
+
+.side-part h5{
+    margin-left: 20px;
+   color:#303030;
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.input-list{
+    color:grey;
+    margin-left: 80px;
+    width: 85%;
+    height: 55vh;
+    margin-top: 50px;
+    // border: 1px solid white;
+
+}
+.input-list input{
+    width: 180px;
+    border-radius:4px; 
+    background-color: lightgrey;
+    margin-top: 2px;
+    border: 1px lightgray;
+    padding: 5px;
+}
+
+.one{
+    margin-left: -40px;
+    
+}
+.input-list .two{
+margin-left: 160px;
+margin-top: -40px;
+}
+ .three input{
+    margin-left: -40px;
+    margin-top: 20px;
+   width:80%;
+    }
+
+ 
+.eight select{
+    margin-top: 30px;
+    margin-left: -40px;
+    padding: 5px;
+    width:100% !important;
+}
+
+form button{
+    margin: 20px 0 0  40px;
+    width:50%;
+}
